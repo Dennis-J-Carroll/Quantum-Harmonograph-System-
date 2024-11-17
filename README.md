@@ -7,19 +7,16 @@
 A novel quantum computing approach to harmonograph visualization and analysis, combining quantum mechanical principles with traditional harmonograph techniques to create complex, multi-dimensional pattern visualizations.
 
 ## 🎨 System Interface
+### Complex Pattern Examples
 
 The system provides an interactive interface for quantum harmonograph pattern generation and analysis:
 
-### Pattern Generation Interface
-![Quantum Harmonograph Interface](./assets/harmonograph-interface.png)
 *Interactive interface showing pattern generation with quantum state probabilities*
 
-### Complex Pattern Examples
-<div style="display: flex; justify-content: space-between;">
-    <img src="./assets/pattern-example-1.png" width="45%" alt="Complex Pattern Example 1"/>
-    <img src="./assets/pattern-example-2.png" width="45%" alt="Complex Pattern Example 2"/>
-</div>
-*Examples of quantum-enhanced harmonograph patterns with different parameter configurations*
+
+![Screenshot from 2024-11-17 08-47-55](https://github.com/user-attachments/assets/226f068e-2962-44cf-b960-94843bc86dde)
+![Screenshot from 2024-11-17 08-46-52](https://github.com/user-attachments/assets/9a6e5a31-08a5-4d80-8f9b-3da29c50c888)
+![Screenshot from 2024-11-17 08-46-19](https://github.com/user-attachments/assets/9604cb34-a36a-415f-a5c6-a5464f451944)
 
 ## 🌟 Features
 
